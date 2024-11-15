@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
-
+#Refactoring change1
 # Get user input for city.
     city = input("Please select city, Chicago, New York City or Washington\n")
 
@@ -17,7 +17,7 @@ def get_filters():
 #print("Your selected city is:", city.upper())
 
 # Get user input for months.
-
+# Refactoring Change2
     month = input("Please select a month, all, january, february, march, april, may or june\n")
 
     while month.lower() != "all".lower() and month.lower() != "january".lower() and month.lower() != "february".lower() and month.lower() != "march".lower() and month.lower() != "april".lower() and month.lower() != "may".lower() and month.lower() != "june".lower():
