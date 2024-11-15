@@ -8,6 +8,7 @@ This project was created _10/20/2024_
 
 ### Description
 This project explores the Bike Share data using python.
+Please read thorough.
 
 ## Features
 - Filters data using Pandas
