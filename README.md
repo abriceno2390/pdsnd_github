@@ -20,6 +20,7 @@ This project explores the Bike Share data using python.
 - Washington.csv
 
 ### Credits
+## **Respect intelectual property.**
 - [Udacity](https://www.udacity.com "Visit Udacity's website")
 - [StackOverflow](https://www.stackoverflow.com "Visit Udacity's website")
 
