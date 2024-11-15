@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
-
+#Refactoring change1
 # Get user input for city.
     city = input("Please select city, Chicago, New York City or Washington\n")
 
