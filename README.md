@@ -15,7 +15,7 @@ This project explores the Bike Share data using python.
 - Corrects the user in case of _typo_ errors.
 
 ### Files used
-## **Data files in CSV format.**
+## **Data files in CSV format only.**
 - Chicago.csv
 - New York.csv
 - Washington.csv
